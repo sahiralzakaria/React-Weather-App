@@ -22,7 +22,6 @@ This weather app provides a fast and simple way to check live weather updates fo
 - Search for a city to get its current weather
 - View **temperature**, **humidity**, and **wind speed**
 - Dynamic **weather icons** (sunny, cloudy, rainy, snowy, etc.)
-- Automatically loads **London weather** on startup
 - Displays alerts for invalid city names or API errors
 
 ---
@@ -66,7 +65,6 @@ This weather app provides a fast and simple way to check live weather updates fo
 - 🌍 **API-powered real-time data**
 - 💨 Displays **humidity** and **wind speed**
 - ⚡ Responsive design for all devices
-- 🌇 Default city: **London**
 
 ---
 
@@ -87,16 +85,6 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 > ```env
 > VITE_APP_ID=your_openweather_api_key
 > ```
-
----
-
-## Future Improvements
-
-- Add **5-day forecast** feature
-- Support for **light/dark themes**
-- Show **sunrise/sunset times**
-- Auto-detect **current location weather**
-- Multi-language support (English / Arabic)
 
 ---
 
