@@ -8,9 +8,9 @@ The app displays real-time temperature, humidity, wind speed, and weather icons 
 ## UI Preview
 
 <div align="center">
-  <img src="./src/assets/temp/1.png" alt="Weather App Screenshot 1" width="30%" style="margin: 0 10px;" />
-  <img src="./src/assets/temp/2.png" alt="Weather App Screenshot 2" width="30%" style="margin: 0 10px;" />
-  <img src="./src/assets/temp/3.png" alt="Weather App Screenshot 3" width="30%" style="margin: 0 10px;" />
+  <img src="./src/assets/temp/1.png" alt="Weather App Screenshot 1" height="300" style="margin: 0 8px; border-radius: 10px;" />
+  <img src="./src/assets/temp/2.png" alt="Weather App Screenshot 2" height="300" style="margin: 0 8px; border-radius: 10px;" />
+  <img src="./src/assets/temp/3.png" alt="Weather App Screenshot 3" height="300" style="margin: 0 8px; border-radius: 10px;" />
 </div>
 
 ---
