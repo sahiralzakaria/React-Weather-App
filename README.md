@@ -1,6 +1,3 @@
-بالطبع ✅ إليك الملف الكامل ضمن خلية واحدة قابلة للنسخ المباشر:
-
-````markdown
 # React Weather App
 
 A sleek and modern **React.js** weather application that allows users to search for current weather conditions by city name.  
@@ -115,4 +112,3 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
   <p>Made with ☁️ and ❤️ by <strong>Sahir Zakaria</strong></p>
   <p><em>Stay informed. Stay weather-wise! 🌦️</em></p>
 </div>
-````
