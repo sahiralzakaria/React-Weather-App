@@ -26,6 +26,7 @@ This weather app provides a fast and simple way to check live weather updates fo
 
 ---
 
+
 ## Technologies Used
 
 - **React.js** – For building the user interface
