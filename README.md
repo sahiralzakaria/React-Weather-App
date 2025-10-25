@@ -15,6 +15,7 @@ The app displays real-time temperature, humidity, wind speed, and weather icons 
 
 ---
 
+
 ## Overview
 
 This weather app provides a fast and simple way to check live weather updates for any city:
